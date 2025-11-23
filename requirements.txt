@@ -1,22 +1,11 @@
-# basic data science
-pandas>=1.5
-numpy>=1.24
-matplotlib>=3.7
-scipy>=1.11
-jupyterlab
 
-# NLP/sentiment
-nltk>=3.8
-textblob>=0.17.1
-vaderSentiment>=3.3.2
-transformers>=4.35   # optional, only if you want transformer-based sentiment
-
-# finance/ta
-ta-lib==0.4.24  # if you can install C library; otherwise use pandas_ta
-pandas_ta>=0.3.0b0
-
-# utilities/testing
-pytest
-black
-flake8
-python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+nltk
+textblob
+scikit-learn
+mplfinance
+ta-lib
