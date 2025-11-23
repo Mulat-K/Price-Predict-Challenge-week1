@@ -1,4 +1,4 @@
-````markdown
+
 # Predicting Price Moves with News Sentiment 📈📰  
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -174,5 +174,3 @@ Please refer to the LICENSE file if added in the future.
 
 ---
 
-```
-```
